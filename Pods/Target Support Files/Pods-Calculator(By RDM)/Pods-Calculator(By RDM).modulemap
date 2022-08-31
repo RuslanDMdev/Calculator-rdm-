@@ -1,0 +1,6 @@
+framework module Pods_Calculator_By_RDM_ {
+  umbrella header "Pods-Calculator(By RDM)-umbrella.h"
+
+  export *
+  module * { export * }
+}

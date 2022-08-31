@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Calculator_By_RDM__Calculator_By_RDM_UITests : NSObject
+@end
+@implementation PodsDummy_Pods_Calculator_By_RDM__Calculator_By_RDM_UITests
+@end

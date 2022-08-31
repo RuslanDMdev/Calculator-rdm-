@@ -4,21 +4,21 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-myCalc-myCalcUITests.xcscheme</key>
+		<key>Pods-Calculator(By RDM)-Calculator(By RDM)UITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Pods-myCalc.xcscheme</key>
+		<key>Pods-Calculator(By RDM).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>Pods-myCalcTests.xcscheme</key>
+		<key>Pods-Calculator(By RDM)Tests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

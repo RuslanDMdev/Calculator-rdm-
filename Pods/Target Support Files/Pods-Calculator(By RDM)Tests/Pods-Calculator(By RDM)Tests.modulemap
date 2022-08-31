@@ -1,0 +1,6 @@
+framework module Pods_Calculator_By_RDM_Tests {
+  umbrella header "Pods-Calculator(By RDM)Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

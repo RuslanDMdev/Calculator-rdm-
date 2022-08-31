@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "19622742EBA51E823D6DAE3F8CDBFAD4"
-               BuildableName = "SnapKit.framework"
-               BlueprintName = "SnapKit"
+               BlueprintIdentifier = "5DFFCF90D510F37ECD054D5048440AB7"
+               BuildableName = "Pods_Calculator_By_RDM__Calculator_By_RDM_UITests.framework"
+               BlueprintName = "Pods-Calculator(By RDM)-Calculator(By RDM)UITests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
