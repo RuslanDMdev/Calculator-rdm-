@@ -14,3 +14,6 @@
 Нужно исправить:
 Точка вставляется когда числовое пустое.
 Отключить поворот экрана
+<img width="334" alt="Снимок экрана 2022-09-01 в 20 24 17" src="https://user-images.githubusercontent.com/91013665/187975720-cc70940e-be5c-4bb9-9971-50283c71d61a.png">
+
+<img width="334" alt="Снимок экрана 2022-09-01 в 20 24 38" src="https://user-images.githubusercontent.com/91013665/187975756-50609e23-066c-4072-a001-6fee8b5f911e.png">
