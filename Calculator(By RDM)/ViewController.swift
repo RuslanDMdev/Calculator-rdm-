@@ -342,7 +342,12 @@ class ViewController: UIViewController {
     }
     
     @objc func separatedPoint( sender: UIButton){
-        resultLabel.text = resultLabel.text! + "."
+        
+        if resultLabel.text?.contains(".") == true {
+            return 
+        } else {
+            resultLabel.text = resultLabel.text! + "."
+        }
     }
     
     @objc func pressNumber( sender: UIButton){
