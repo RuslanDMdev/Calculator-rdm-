@@ -39,7 +39,7 @@ class ViewController: UIViewController {
         
         
         resultLabel.text = ""
-        resultLabel.font = UIFont.systemFont(ofSize: 80)
+        resultLabel.font = UIFont.systemFont(ofSize: 60)
         resultLabel.textColor = .white
         resultLabel.layer.borderWidth = 1
         resultLabel.textAlignment = .right
@@ -56,9 +56,6 @@ class ViewController: UIViewController {
         viewButtons.snp.makeConstraints { make in
             make.width.equalTo(buttonSize*4)
             make.height.equalTo(numpadSize)
-//            make.top.equalToSuperview().inset(300)
-//            make.left.equalToSuperview().inset(0)
-//            make.right.equalToSuperview().inset(0)
             make.bottom.equalToSuperview().inset(0)
         }
         
